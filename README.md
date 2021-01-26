@@ -24,3 +24,5 @@ Use the following command to create an admin user
 ```
 python manage.py createsuperuser
 ```
+
+By NKIANGMATIAH JUNIOR MNEIMOH
